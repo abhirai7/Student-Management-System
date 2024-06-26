@@ -1,5 +1,5 @@
 # Student Management System
-===========================
+
 
 ## Overview
 -----------
